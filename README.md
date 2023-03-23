@@ -3,5 +3,6 @@ OptiBoost is a silent and simple game optimizing program
 
 list of games it optimizes is at "C:\Users\%username%\AppData\Roaming\optimizerq\games.txt"
 you can add processes to the list if you want to or remove some processes
-<br>
+<br style="line-height: 50px;">
 <img src="https://img.shields.io/badge/version-1.0.0.0a-red" alt="Version"></img>
+<br style="line-height: 50px;">
