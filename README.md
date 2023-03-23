@@ -6,3 +6,7 @@ OptiBoost is a silent and simple game optimizing program
 <br style="line-height: 50px;">
 <img src="https://img.shields.io/badge/version-1.0.0.0a-red" alt="Version"></img>
 <br style="line-height: 50px;">
+# links
+<a href="http://shadowstudios.rf.gd/" style="color: blue;">our website</a>
+<br>
+<a href="https://shadowdevhere.itch.io/" style="color: blue;">our itch.io</a>
